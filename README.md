@@ -1,2 +1,2 @@
 # POO-PED
- Gestor de tenda de mobles
+Manager of a furniture store.
